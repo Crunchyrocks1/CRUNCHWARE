@@ -1,8 +1,8 @@
-from pyt.crypt import log
-from pyt import init, Fore
-from pyt.CtypeClick import *
+from CRUNCHWARE.crypt import log
+from CRUNCHWARE import init, Fore
+from CRUNCHWARE.CtypeClick import *
 
-from pyt.messages import *
+from CRUNCHWARE.messages import *
 
 
 user32 = ctypes.windll.user32
